@@ -14,7 +14,6 @@ At LDIT Service AB, we offer specialized services centered around modern softwar
 * **System Development & Architecture:** Designing and implementing well-structured, efficient, and scalable system architectures that form the backbone of your digital solutions.
 * **Software Consulting:** Providing expert advice and strategic guidance on software projects, technology choices, and architectural best practices to help you make informed decisions.
 * **Application Modernization & Enhancement:** Upgrading and evolving existing applications to leverage new technologies, improve performance, and extend their lifespan.
-* **(If specific technologies were noted as very prominent or if you want to list general areas like "Web & Mobile Application Development," "Cloud Solutions," "API Development," that could be added here.)**
 
 ## Our Approach
 
@@ -28,7 +27,6 @@ At LDIT Service AB, we offer specialized services centered around modern softwar
 We are always ready to discuss your next development project or consulting needs.
 
 * **Website:** [https://www.lditservice.com](https://www.lditservice.com)
-* **(Consider adding a more direct contact method if appropriate, e.g., a link to a contact page or an email address if publicly listed for new business inquiries.)**
 
 <!--
 
